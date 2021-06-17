@@ -1,0 +1,74 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-11 15:33+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\admin_dashboard\settings.py:119
+msgid "Uzbek"
+msgstr "O'zbekcha"
+
+#: .\admin_dashboard\settings.py:120
+msgid "English"
+msgstr "Inglizcha"
+
+#: .\admin_dashboard\settings.py:121
+msgid "Russian"
+msgstr "Ruscha"
+
+#: .\main\models.py:6 .\main\models.py:20
+msgid "Name"
+msgstr "Nomi"
+
+#: .\main\models.py:7
+msgid "Description"
+msgstr "Tafsilot"
+
+#: .\main\models.py:8
+msgid "Price"
+msgstr "Narxi"
+
+#: .\main\models.py:15
+msgid "Product"
+msgstr "Maxsulot"
+
+#: .\main\models.py:16
+msgid "Products"
+msgstr "Maxsulotlar"
+
+#: .\main\models.py:26
+msgid "Category"
+msgstr "Kategoriya"
+
+#: .\main\models.py:27
+msgid "Categories"
+msgstr "Kategoriyalar"
+
+#: .\templates\admin\base_site.html:27
+msgid "Documentation"
+msgstr "Hujjatlashtirish"
+
+#: .\templates\admin\base_site.html:31
+msgid "Change password"
+msgstr "Parolni o'zgartirish"
+
+#: .\templates\admin\base_site.html:33
+msgid "Log out"
+msgstr "Chiqish"
+
+#~ msgid "main"
+#~ msgstr "Asosiy"

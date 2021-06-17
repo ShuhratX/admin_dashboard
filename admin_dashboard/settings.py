@@ -36,7 +36,6 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    'admin_dashboard.apps.SuitConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -87,7 +86,7 @@ DATABASES = {
         'HOST': 'localhost',
         'NAME': 'dashboard',
         'USER': 'postgres',
-        'PASSWORD': '',
+        'PASSWORD': '0000',
     }
 }
 
@@ -143,3 +142,5 @@ STATIC_URL = '/static/'
 
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+
+DEFAULT_AUTO_FIELD = 'django.db.models.AutoField'
